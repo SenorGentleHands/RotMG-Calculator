@@ -1,9 +1,9 @@
 RotMG-Calculator
 ================
 
-Realm of the Mad God stats calculator
+Install python
 
-Go to a command line, then go to the unziped directory.
+Go to a command line, then go to this directory.
 
 To run the calculator, type in:
 
