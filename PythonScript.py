@@ -86,7 +86,7 @@ while (cor != "y") or (cor != "yes"):
     print " "
     cor = raw_input("Is this correct?: ")
     cor = cor.lower()
-    if cor == "n":
+    if cor == "n" or cor == "no":
         re = 1
         clearscreen()
     elif cor != "n" and cor != "no" and cor != "dick" and cor != "yes" and cor != "y":
@@ -97,7 +97,7 @@ while (cor != "y") or (cor != "yes"):
         clearscreen()
     elif cor == "y" or cor == "yes":
         break
-    else:
+    elif cor == "dick":
         re = 0
         clearscreen()
         print " "
