@@ -13,7 +13,7 @@ re = 0
 while (cor != "y") or (cor != "yes"):
     clearscreen()
     print " "
-    print "===========Realm of the mad god Damage Calculator v0.1 ==========="
+    print "===========Realm of the mad god Damage Calculator v0.4 ==========="
     print "                                                   by Ethan Robinson"
     print " "
     if re == 1:
@@ -75,7 +75,7 @@ while (cor != "y") or (cor != "yes"):
             print "No strings of text, letters, or negative numbers"
             print " "
     clearscreen()
-    print "===========Realm of the mad god Damage Calculator v0.1 ==========="
+    print "===========Realm of the mad god Damage Calculator v0.4 ==========="
     print "                                                   by Ethan Robinson"
     print "Your attack stats are ", att
     print "The minimum amount of damage your weapon deals is ", minb
