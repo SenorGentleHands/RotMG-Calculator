@@ -1,7 +1,7 @@
 RotMG-Calculator
 ================
 
-Install python
+Install python2.7
 
 Go to a command line, then go to this directory.
 
