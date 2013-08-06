@@ -1,11 +1,4 @@
 RotMG-Calculator
 ================
 
-Install python2.7
-
-Go to a command line, then go to this directory.
-
-To run the calculator, type in:
-
-
-python pythonscript.py
+Go to the RotMGCalfin folder and click on the file named RotMGCalfin.exe
