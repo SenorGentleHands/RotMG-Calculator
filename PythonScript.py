@@ -13,7 +13,7 @@ re = 0
 while (cor != "y") or (cor != "yes"):
     clearscreen()
     print " "
-    print "===========Realm of the mad god Damage Calculator v0.4 ==========="
+    print "===========Realm of the mad god Damage Calculator v0.5 ==========="
     print "                                                   by Ethan Robinson"
     print " "
     if re == 1:
